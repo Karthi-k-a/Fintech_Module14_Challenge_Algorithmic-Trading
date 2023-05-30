@@ -18,13 +18,14 @@ The provided SVM model generated an accuracy score of 55% with a high recall sco
 Cumulative return plot that shows the actual returns vs. the strategy returns-
 ![](https://github.com/Karthi-k-a/Fintech_Module14_Challenge_Algorithmic-Trading/blob/main/Images/1.png)
 
-**Tune the Baseline Trading Algorithm**
+**Tune the Baseline Trading Algorithm**<br>
+**Step 1:** Tune the training algorithm by adjusting the size of the training dataset (Increasied the training window to 6 months)<br>
+
 <br>
-<br>
-![](https://github.com/Karthi-k-a/Fintech_Module14_Challenge_Algorithmic-Trading/blob/main/Images/?.png)<br>
+![](https://github.com/Karthi-k-a/Fintech_Module14_Challenge_Algorithmic-Trading/blob/main/Images/tune.png)<br>
 <br>
 Cumulative return plot that shows the actual returns vs. the strategy returns-
-![](https://github.com/Karthi-k-a/Fintech_Module14_Challenge_Algorithmic-Trading/blob/main/Images/?.png)
+![](https://github.com/Karthi-k-a/Fintech_Module14_Challenge_Algorithmic-Trading/blob/main/Images/tune1.png)
 
 
 **Evaluate a New Machine Learning Classifier**

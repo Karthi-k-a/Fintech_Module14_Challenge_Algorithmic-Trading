@@ -22,7 +22,8 @@ Cumulative return plot that shows the actual returns vs. the strategy returns-
 **Step 1:** Tune the training algorithm by adjusting the size of the training dataset (Increasied the training window to 6 months)<br>
 
 <br>
-![](https://github.com/Karthi-k-a/Fintech_Module14_Challenge_Algorithmic-Trading/blob/main/Images/tune.png)<br>
+
+![](https://github.com/Karthi-k-a/Fintech_Module14_Challenge_Algorithmic-Trading/blob/main/Images/tune.png) <br>
 <br>
 Cumulative return plot that shows the actual returns vs. the strategy returns-
 ![](https://github.com/Karthi-k-a/Fintech_Module14_Challenge_Algorithmic-Trading/blob/main/Images/tune1.png)
